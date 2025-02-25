@@ -29,3 +29,10 @@ Essas credenciais dão acesso ao painel administrativo, permitindo explorar as f
 - **PHP**: Linguagem principal utilizada para desenvolvimento back-end.
 - **MySQL** (ou outro banco de dados relacional): Utilizado para armazenar dados da aplicação.
 - **HTML, CSS, JavaScript**: Para construção da interface do usuário, tornando-a interativa e responsiva.
+
+## 📦 Como Rodar o Projeto
+
+### 1. Clone o repositório:
+
+```bash
+git clone https://github.com/GuilhermeLuzs/prime_burguer.git
